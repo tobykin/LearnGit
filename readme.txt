@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Toby is practising creating branch by himself.
 Creating a new branch is quick and simple.
+Try another way of merging.
